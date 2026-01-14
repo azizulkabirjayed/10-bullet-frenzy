@@ -29,12 +29,13 @@ The project demo video is available to watch here: <a href="https://www.google.c
 - Cheat mode with auto-aim and auto-shoot
 - Dynamic camera control
 - Restartable gameplay
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Controls
 - **W / S** – Move forward / backward
 - **A / D** – Rotate player left / right
 - **Left Mouse Button** – Shoot bullets
 - **Right Mouse Button** – Toggle first-person camera
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 - **Arrow Keys** – Move third-person camera
 - **C** – Toggle cheat mode
 - **V** – Toggle cheat camera view
