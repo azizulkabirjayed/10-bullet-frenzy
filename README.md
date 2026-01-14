@@ -5,11 +5,16 @@ You can find the assignment details here: <a href="assignment 03.pdf">click here
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
-* ![GLUT](https://img.shields.io/badge/GLUT-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-* ![GLU](https://img.shields.io/badge/GLU-8A2BE2?style=for-the-badge&logo=opengl&logoColor=white)
-* ![PyOpenGL](https://img.shields.io/badge/PyOpenGL-0A0A0A?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+![GLUT](https://img.shields.io/badge/GLUT-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+![GLU](https://img.shields.io/badge/GLU-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
+![PyOpenGL](https://img.shields.io/badge/PyOpenGL-0A0A0A?style=for-the-badge&logo=opengl&logoColor=white)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Project Demo Video
