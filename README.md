@@ -29,14 +29,6 @@ The project demo video is available to watch here: <a href="https://www.google.c
 - Dynamic camera control
 - Restartable gameplay
 
-## Game Mechanics
-- Enemies continuously move toward the player
-- Enemy size dynamically oscillates
-- Bullets have limited lifespan
-- Missing too many bullets ends the game
-- Player loses life on enemy contact
-- Game ends when life reaches zero
-
 ## Controls
 - **W / S** – Move forward / backward
 - **A / D** – Rotate player left / right
