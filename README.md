@@ -32,14 +32,18 @@ The project demo video is available to watch here: <a href="https://www.google.c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Controls
-* **W / S** – Move forward / backward
-* **A / D** – Rotate player left / right
-* **Left Mouse Button** – Shoot bullets
-* **Right Mouse Button** – Toggle first-person camera
-* **Arrow Keys** – Move third-person camera
-* **C** – Toggle cheat mode
-* **V** – Toggle cheat camera view
-* **R** – Restart game (after game over)
+| Key | Action |
+|----|-------|
+| W | Move Forward|
+| S | Move Backward|
+| A | Rotate player left |
+| D | Rotate player left |
+| Left Mouse Button | shoot bullets |
+| Ritght Mouse Button | Toggle First-Person/Third-Person Camera |
+| →/ ←/ ↑/ ↓ | Rotate Third-Person Camera Left/ Right/ Up/ Down |
+| C | Toggle Cheat Mode |
+| V | Toggle cheat camera view(only work on cheat mode) |
+| R | Restart(after game over) | 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
