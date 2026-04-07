@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE423(Computer Graphics) course assignment at BRAC University.
-You can find the assignment details here: <a href="assignment 03.pdf">click here</a>.
+This project was developed as part of the CSE423(Computer Graphics) course [assignment](https://github.com/azizulkabirjayed/10-bullet-frenzy/blob/7fe700213d3e74c1a4fb181b6003dc722f4ca1cf/assignment%2003.pdf) at BRAC University.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
